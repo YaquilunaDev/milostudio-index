@@ -1,0 +1,27 @@
+{
+  "milovana_id": 81508,
+  "title": "AI寸止挑战（权限升级）",
+  "author": "寸止挑战",
+  "rating": 1.8,
+  "views": 7003,
+  "date": "05/19/2026",
+  "thumbnail_hash": "a5f31ceccaaa2695ae62a597234f03dd4d5449a2",
+  "tease_type": "eos",
+  "tags": [
+    "untitled"
+  ],
+  "page_count": 8,
+  "command_count": 70,
+  "media_image_count": 23,
+  "media_audio_count": 22,
+  "media_file_size": 12834820,
+  "has_audio": true,
+  "has_storage": false,
+  "has_notifications": false,
+  "has_timers": true,
+  "has_prompts": true,
+  "has_eval": false,
+  "playtime_min_seconds": 102,
+  "playtime_max_seconds": 102,
+  "scraped_at": "2026-05-29T18:00:02.525974831+00:00"
+}

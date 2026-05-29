@@ -1,0 +1,27 @@
+{
+  "milovana_id": 81593,
+  "title": "阿波次 得勒-赞助",
+  "author": "寸止挑战",
+  "rating": 1.0,
+  "views": 3514,
+  "date": "05/24/2026",
+  "thumbnail_hash": "c0017acc59fca6916ee821526e5abdf12d895db9",
+  "tease_type": "eos",
+  "tags": [
+    "untitled"
+  ],
+  "page_count": 9,
+  "command_count": 87,
+  "media_image_count": 0,
+  "media_audio_count": 20,
+  "media_file_size": 10034488,
+  "has_audio": true,
+  "has_storage": false,
+  "has_notifications": false,
+  "has_timers": true,
+  "has_prompts": true,
+  "has_eval": false,
+  "playtime_min_seconds": 1,
+  "playtime_max_seconds": 34,
+  "scraped_at": "2026-05-29T18:00:02.525974831+00:00"
+}

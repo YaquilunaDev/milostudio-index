@@ -1,0 +1,27 @@
+{
+  "milovana_id": 81600,
+  "title": "龟责迷宫试玩版",
+  "author": "2073312630",
+  "rating": 1.0,
+  "views": 4316,
+  "date": "05/24/2026",
+  "thumbnail_hash": "a556727e87435531d5e6be3782c87f92e1f4b525",
+  "tease_type": "eos",
+  "tags": [
+    "ribbon"
+  ],
+  "page_count": 62,
+  "command_count": 357,
+  "media_image_count": 45,
+  "media_audio_count": 6,
+  "media_file_size": 5653404,
+  "has_audio": true,
+  "has_storage": false,
+  "has_notifications": true,
+  "has_timers": true,
+  "has_prompts": false,
+  "has_eval": true,
+  "playtime_min_seconds": 4,
+  "playtime_max_seconds": 124,
+  "scraped_at": "2026-05-29T18:00:02.525974831+00:00"
+}

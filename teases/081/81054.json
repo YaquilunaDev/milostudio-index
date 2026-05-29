@@ -1,0 +1,27 @@
+{
+  "milovana_id": 81054,
+  "title": "寸止触发器2",
+  "author": "寸止挑战",
+  "rating": 1.9,
+  "views": 10934,
+  "date": "04/22/2026",
+  "thumbnail_hash": "d92ea13682801c2974aa0835c9bde29ccd1fc108",
+  "tease_type": "eos",
+  "tags": [
+    "untitled"
+  ],
+  "page_count": 8,
+  "command_count": 143,
+  "media_image_count": 0,
+  "media_audio_count": 7,
+  "media_file_size": 11659489,
+  "has_audio": true,
+  "has_storage": false,
+  "has_notifications": false,
+  "has_timers": true,
+  "has_prompts": false,
+  "has_eval": false,
+  "playtime_min_seconds": 131,
+  "playtime_max_seconds": 222,
+  "scraped_at": "2026-05-29T18:00:02.525974831+00:00"
+}
