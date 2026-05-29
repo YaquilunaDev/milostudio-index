@@ -3,7 +3,7 @@
   "title": "足控飞行棋",
   "author": "2073312630",
   "rating": 1.8,
-  "views": 19711,
+  "views": 19757,
   "date": "05/14/2026",
   "thumbnail_hash": "8f53e176f9fc4b13e08b9cc47ad65023d9f35e8b",
   "tease_type": "eos",
@@ -27,5 +27,5 @@
   "has_eval": true,
   "playtime_min_seconds": 8,
   "playtime_max_seconds": 8,
-  "scraped_at": "2026-05-29T19:27:38.490962216+00:00"
+  "scraped_at": "2026-05-29T20:47:48.138145406+00:00"
 }

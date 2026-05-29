@@ -3,7 +3,7 @@
   "title": "Battleship - Remastered! (V2)",
   "author": "tom.hevenaars",
   "rating": 4.7,
-  "views": 81087,
+  "views": 81090,
   "date": "10/21/2023",
   "thumbnail_hash": "5d12229aa63c62d62296b750d2581bf755cafe59",
   "tease_type": "eos",
@@ -27,5 +27,5 @@
   "has_eval": true,
   "playtime_min_seconds": 20,
   "playtime_max_seconds": 318,
-  "scraped_at": "2026-05-29T19:27:38.490962216+00:00"
+  "scraped_at": "2026-05-29T20:47:48.138145406+00:00"
 }

@@ -3,7 +3,7 @@
   "title": "Snakes and Ladders Multiplayer",
   "author": "Acanthisitta",
   "rating": 4.5,
-  "views": 52844,
+  "views": 52847,
   "date": "11/11/2025",
   "thumbnail_hash": "2b8008c0b675719f455c63a8b991902d931a14a3",
   "tease_type": "eos",
@@ -27,5 +27,5 @@
   "has_eval": true,
   "playtime_min_seconds": 20,
   "playtime_max_seconds": 1296,
-  "scraped_at": "2026-05-29T19:27:38.490962216+00:00"
+  "scraped_at": "2026-05-29T20:47:48.138145406+00:00"
 }

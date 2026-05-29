@@ -3,7 +3,7 @@
   "title": "New School",
   "author": "BopIT",
   "rating": 4.5,
-  "views": 99484,
+  "views": 99486,
   "date": "09/10/2019",
   "thumbnail_hash": "60f94eec4085a876647b073f96472abac4981f40",
   "tease_type": "eos",
@@ -25,5 +25,5 @@
   "has_eval": true,
   "playtime_min_seconds": 3,
   "playtime_max_seconds": 344,
-  "scraped_at": "2026-05-29T19:27:38.490962216+00:00"
+  "scraped_at": "2026-05-29T20:47:48.138145406+00:00"
 }

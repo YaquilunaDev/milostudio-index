@@ -3,7 +3,7 @@
   "title": "Deal or No Deal",
   "author": "Taeus",
   "rating": 4.2,
-  "views": 124434,
+  "views": 124436,
   "date": "12/24/2020",
   "thumbnail_hash": "dfd8c725c2b116ea380c0289b70e6a331246a735",
   "tease_type": "eos",
@@ -27,5 +27,5 @@
   "has_eval": true,
   "playtime_min_seconds": 260,
   "playtime_max_seconds": 293,
-  "scraped_at": "2026-05-29T19:27:38.490962216+00:00"
+  "scraped_at": "2026-05-29T20:47:48.138145406+00:00"
 }

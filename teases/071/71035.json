@@ -3,7 +3,7 @@
   "title": "Dungeon Adventure (v1.1)",
   "author": "Handsome Squidward",
   "rating": 4.6,
-  "views": 56103,
+  "views": 56104,
   "date": "01/28/2025",
   "thumbnail_hash": "cd2b853d9f856aa1a01ce24cf2dac1e23d017916",
   "tease_type": "eos",
@@ -24,5 +24,5 @@
   "has_eval": true,
   "playtime_min_seconds": 2,
   "playtime_max_seconds": 58,
-  "scraped_at": "2026-05-29T19:27:38.490962216+00:00"
+  "scraped_at": "2026-05-29T20:47:48.138145406+00:00"
 }
