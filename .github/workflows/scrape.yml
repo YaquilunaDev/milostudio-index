@@ -1,0 +1,99 @@
+name: Scrape Milovana Index
+
+on:
+  schedule:
+    - cron: '0 4 * * 1-6'
+    - cron: '0 4 * * 0'
+  workflow_dispatch:
+    inputs:
+      max_pages:
+        description: 'Maximum pages to scrape (0 = unlimited)'
+        required: false
+        default: '0'
+      full:
+        description: 'Full re-scrape with deletion detection'
+        type: boolean
+        required: false
+        default: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout index repo
+        uses: actions/checkout@v4
+
+      - name: Download milostudio-cli
+        uses: robinraju/release-downloader@v1
+        with:
+          repository: milo-studio/MiloStudio
+          latest: true
+          fileName: milostudio-cli-linux-x86_64
+          out-file-path: .
+
+      - name: Make CLI executable
+        run: chmod +x ./milostudio-cli-linux-x86_64
+
+      - name: Determine scrape mode
+        id: mode
+        env:
+          INPUT_FULL: ${{ github.event.inputs.full }}
+          CRON_SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          if [ "$INPUT_FULL" = "true" ] || [ "$CRON_SCHEDULE" = "0 4 * * 0" ]; then
+            echo "full=true" >> $GITHUB_OUTPUT
+            echo "Scrape mode: FULL (with deletion detection)"
+          else
+            echo "full=false" >> $GITHUB_OUTPUT
+            echo "Scrape mode: incremental"
+          fi
+
+      - name: Run scrape
+        env:
+          MAX_PAGES: ${{ github.event.inputs.max_pages }}
+          FULL_MODE: ${{ steps.mode.outputs.full }}
+        run: |
+          EXTRA_ARGS=""
+          if [ -n "$MAX_PAGES" ] && [ "$MAX_PAGES" != "0" ]; then
+            EXTRA_ARGS="--max-pages $MAX_PAGES"
+          fi
+          if [ "$FULL_MODE" = "true" ]; then
+            ./milostudio-cli-linux-x86_64 scrape \
+              --output-dir ./teases \
+              --full \
+              $EXTRA_ARGS
+          else
+            ./milostudio-cli-linux-x86_64 scrape \
+              --output-dir ./teases \
+              --incremental \
+              --manifest ./manifest.json \
+              $EXTRA_ARGS
+          fi
+
+      - name: Generate manifests
+        run: |
+          ./milostudio-cli-linux-x86_64 manifest --teases-dir ./teases --output manifest.json
+          ./milostudio-cli-linux-x86_64 manifest --teases-dir ./teases --output eos-manifest.json --eos-only
+
+      - name: Generate compressed archives
+        run: |
+          ./milostudio-cli-linux-x86_64 pack --teases-dir ./teases --output full-index.json.gz
+          ./milostudio-cli-linux-x86_64 pack --teases-dir ./teases --output eos-index.json.gz --eos-only
+
+      - name: Count changes
+        id: changes
+        run: |
+          ADDED=$(git status --porcelain teases/ | grep '^?' | wc -l)
+          MODIFIED=$(git status --porcelain teases/ | grep '^ M' | wc -l)
+          echo "added=$ADDED" >> $GITHUB_OUTPUT
+          echo "modified=$MODIFIED" >> $GITHUB_OUTPUT
+          echo "total=$((ADDED + MODIFIED))" >> $GITHUB_OUTPUT
+
+      - name: Commit and push
+        if: steps.changes.outputs.total != '0'
+        run: |
+          git config user.name "MiloStudio Bot"
+          git config user.email "bot@milostudio.dev"
+          git add teases/ manifest.json eos-manifest.json full-index.json.gz eos-index.json.gz
+          git commit -m "index: add ${{ steps.changes.outputs.added }} new, update ${{ steps.changes.outputs.modified }} teases ($(date -u +%Y-%m-%d))"
+          git push
