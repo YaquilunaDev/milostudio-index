@@ -3,7 +3,7 @@
   "title": "猜數字？",
   "author": "Amb",
   "rating": 3.7,
-  "views": 31707,
+  "views": 31712,
   "date": "03/29/2025",
   "thumbnail_hash": "707ac1cb2d4168711c2b160044e68bd509f3bc19",
   "tease_type": "eos",
@@ -25,5 +25,5 @@
   "has_eval": true,
   "playtime_min_seconds": 117,
   "playtime_max_seconds": 427,
-  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+  "scraped_at": "2026-05-29T19:27:38.490962216+00:00"
 }

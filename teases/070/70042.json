@@ -3,7 +3,7 @@
   "title": "AI Takeover Game",
   "author": "gulared",
   "rating": 4.5,
-  "views": 89275,
+  "views": 89276,
   "date": "07/21/2024",
   "thumbnail_hash": "bc9f9b4ba169480ab3380f895cfc0f11ac1c699a",
   "tease_type": "eos",
@@ -26,5 +26,5 @@
   "has_eval": true,
   "playtime_min_seconds": 50,
   "playtime_max_seconds": 16830,
-  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+  "scraped_at": "2026-05-29T19:27:38.490962216+00:00"
 }

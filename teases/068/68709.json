@@ -3,7 +3,7 @@
   "title": "Monopoly",
   "author": "bbb11__",
   "rating": 4.1,
-  "views": 59124,
+  "views": 59125,
   "date": "01/22/2024",
   "thumbnail_hash": "32f172134849688af2ad306acb5b5c095dc6f253",
   "tease_type": "eos",
@@ -24,5 +24,5 @@
   "has_eval": true,
   "playtime_min_seconds": 10,
   "playtime_max_seconds": 10,
-  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+  "scraped_at": "2026-05-29T19:27:38.490962216+00:00"
 }

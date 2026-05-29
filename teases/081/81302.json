@@ -2,8 +2,8 @@
   "milovana_id": 81302,
   "title": "A Little BBC Puzzle",
   "author": "marvsissy",
-  "rating": 4.0,
-  "views": 10267,
+  "rating": 4.1,
+  "views": 10309,
   "date": "05/25/2026",
   "thumbnail_hash": "a0402912929f16f45a058f94e19f0486dca2b1cd",
   "tease_type": "eos",
@@ -25,5 +25,5 @@
   "has_eval": false,
   "playtime_min_seconds": 229,
   "playtime_max_seconds": 229,
-  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+  "scraped_at": "2026-05-29T19:27:38.490962216+00:00"
 }

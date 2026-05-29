@@ -3,7 +3,7 @@
   "title": "Haunted House",
   "author": "matschbirne",
   "rating": 4.2,
-  "views": 48759,
+  "views": 48760,
   "date": "09/20/2023",
   "thumbnail_hash": "465b65127e832ac1f070dc312b874fbc19caa5c1",
   "tease_type": "eos",
@@ -27,5 +27,5 @@
   "has_eval": true,
   "playtime_min_seconds": 66,
   "playtime_max_seconds": 290,
-  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+  "scraped_at": "2026-05-29T19:27:38.490962216+00:00"
 }
