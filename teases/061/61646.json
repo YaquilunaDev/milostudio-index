@@ -1,0 +1,29 @@
+{
+  "milovana_id": 61646,
+  "title": "Bracket Race",
+  "author": "UserZero",
+  "rating": 3.9,
+  "views": 63200,
+  "date": "12/05/2022",
+  "thumbnail_hash": "ca984f031c0f2ce9dbd148c365d4693e67c5a4bc",
+  "tease_type": "eos",
+  "tags": [
+    "for-guys",
+    "metronome",
+    "totm-nominee"
+  ],
+  "page_count": 1018,
+  "command_count": 4070,
+  "media_image_count": 972,
+  "media_audio_count": 45,
+  "media_file_size": 22144724,
+  "has_audio": true,
+  "has_storage": false,
+  "has_notifications": false,
+  "has_timers": true,
+  "has_prompts": false,
+  "has_eval": false,
+  "playtime_min_seconds": 2,
+  "playtime_max_seconds": 3207,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

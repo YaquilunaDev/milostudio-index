@@ -1,0 +1,27 @@
+{
+  "milovana_id": 55304,
+  "title": "中文",
+  "author": "",
+  "rating": 3.8,
+  "views": 176831,
+  "date": "03/13/2022",
+  "thumbnail_hash": "e63bf9043bf35c18975ce138274120f9a53f3e28",
+  "tease_type": "eos",
+  "tags": [
+    "untitled"
+  ],
+  "page_count": 49,
+  "command_count": 1691,
+  "media_image_count": 588,
+  "media_audio_count": 4,
+  "media_file_size": 697198,
+  "has_audio": true,
+  "has_storage": true,
+  "has_notifications": true,
+  "has_timers": true,
+  "has_prompts": true,
+  "has_eval": true,
+  "playtime_min_seconds": 39,
+  "playtime_max_seconds": 2892,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

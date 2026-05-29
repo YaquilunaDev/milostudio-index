@@ -1,0 +1,27 @@
+{
+  "milovana_id": 77982,
+  "title": "艾思",
+  "author": "anril",
+  "rating": 1.0,
+  "views": 13557,
+  "date": "10/06/2025",
+  "thumbnail_hash": "9d2f1e37b757db439f6f9dddf6f2a133409cc182",
+  "tease_type": "eos",
+  "tags": [
+    "untitled"
+  ],
+  "page_count": 2,
+  "command_count": 11,
+  "media_image_count": 4,
+  "media_audio_count": 1,
+  "media_file_size": 807555,
+  "has_audio": true,
+  "has_storage": false,
+  "has_notifications": true,
+  "has_timers": true,
+  "has_prompts": false,
+  "has_eval": false,
+  "playtime_min_seconds": 92,
+  "playtime_max_seconds": 92,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

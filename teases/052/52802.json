@@ -1,0 +1,27 @@
+{
+  "milovana_id": 52802,
+  "title": "Trap or not",
+  "author": "Toaster",
+  "rating": 3.0,
+  "views": 55989,
+  "date": "09/28/2021",
+  "thumbnail_hash": "d4d6ad81d029690735c30c0e2b903f50ed3cf036",
+  "tease_type": "eos",
+  "tags": [
+    "for-guys"
+  ],
+  "page_count": 31,
+  "command_count": 124,
+  "media_image_count": 65,
+  "media_audio_count": 12,
+  "media_file_size": 3336845,
+  "has_audio": true,
+  "has_storage": false,
+  "has_notifications": false,
+  "has_timers": true,
+  "has_prompts": false,
+  "has_eval": true,
+  "playtime_min_seconds": 4,
+  "playtime_max_seconds": 346,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

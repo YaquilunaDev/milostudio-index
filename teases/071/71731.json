@@ -1,0 +1,27 @@
+{
+  "milovana_id": 71731,
+  "title": "Pinkie's Present",
+  "author": "Irhys",
+  "rating": 2.5,
+  "views": 8556,
+  "date": "07/27/2024",
+  "thumbnail_hash": "a3c5cbc0a09e1e35be21e1fd98672aae591fc746",
+  "tease_type": "eos",
+  "tags": [
+    "untitled"
+  ],
+  "page_count": 3,
+  "command_count": 61,
+  "media_image_count": 0,
+  "media_audio_count": 0,
+  "media_file_size": 10593442,
+  "has_audio": true,
+  "has_storage": true,
+  "has_notifications": true,
+  "has_timers": true,
+  "has_prompts": false,
+  "has_eval": false,
+  "playtime_min_seconds": 138,
+  "playtime_max_seconds": 138,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

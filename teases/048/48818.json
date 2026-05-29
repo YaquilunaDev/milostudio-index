@@ -1,0 +1,27 @@
+{
+  "milovana_id": 48818,
+  "title": "Patritcy 3er.día",
+  "author": "carlosrubinet",
+  "rating": 3.3,
+  "views": 5188,
+  "date": "01/31/2021",
+  "thumbnail_hash": "a5a24b8da194935ef6f6cbfd3c26b28b9c0d7824",
+  "tease_type": "eos",
+  "tags": [
+    "untitled"
+  ],
+  "page_count": 194,
+  "command_count": 1097,
+  "media_image_count": 178,
+  "media_audio_count": 12,
+  "media_file_size": 8407456,
+  "has_audio": true,
+  "has_storage": false,
+  "has_notifications": false,
+  "has_timers": true,
+  "has_prompts": true,
+  "has_eval": true,
+  "playtime_min_seconds": 16,
+  "playtime_max_seconds": 101,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

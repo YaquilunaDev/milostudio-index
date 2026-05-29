@@ -1,0 +1,27 @@
+{
+  "milovana_id": 48909,
+  "title": "Patritcy 4to.día",
+  "author": "carlosrubinet",
+  "rating": 3.9,
+  "views": 8140,
+  "date": "01/29/2024",
+  "thumbnail_hash": "c415fcda9599ee2e22df2434021e517ce7d2ff18",
+  "tease_type": "eos",
+  "tags": [
+    "untitled"
+  ],
+  "page_count": 223,
+  "command_count": 1379,
+  "media_image_count": 212,
+  "media_audio_count": 16,
+  "media_file_size": 12243702,
+  "has_audio": true,
+  "has_storage": false,
+  "has_notifications": false,
+  "has_timers": true,
+  "has_prompts": true,
+  "has_eval": true,
+  "playtime_min_seconds": 27,
+  "playtime_max_seconds": 85,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

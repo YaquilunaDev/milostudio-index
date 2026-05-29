@@ -1,0 +1,29 @@
+{
+  "milovana_id": 79301,
+  "title": "测试2",
+  "author": "guoguoya",
+  "rating": 1.8,
+  "views": 7253,
+  "date": "12/23/2025",
+  "thumbnail_hash": "014c23ffc7429da08318f406b8b017188b10691d",
+  "tease_type": "eos",
+  "tags": [
+    "for-couples",
+    "for-gals",
+    "for-guys"
+  ],
+  "page_count": 1,
+  "command_count": 34,
+  "media_image_count": 26,
+  "media_audio_count": 0,
+  "media_file_size": 78576,
+  "has_audio": false,
+  "has_storage": false,
+  "has_notifications": false,
+  "has_timers": true,
+  "has_prompts": false,
+  "has_eval": false,
+  "playtime_min_seconds": 145,
+  "playtime_max_seconds": 145,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

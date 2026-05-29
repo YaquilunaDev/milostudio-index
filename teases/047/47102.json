@@ -1,0 +1,27 @@
+{
+  "milovana_id": 47102,
+  "title": "Patritcy",
+  "author": "carlosrubinet",
+  "rating": 4.2,
+  "views": 16214,
+  "date": "11/25/2020",
+  "thumbnail_hash": "0a76ba9a36fbede9f0bf70739ae136b5fdba6c4f",
+  "tease_type": "eos",
+  "tags": [
+    "untitled"
+  ],
+  "page_count": 220,
+  "command_count": 1342,
+  "media_image_count": 219,
+  "media_audio_count": 7,
+  "media_file_size": 5875723,
+  "has_audio": true,
+  "has_storage": false,
+  "has_notifications": false,
+  "has_timers": true,
+  "has_prompts": false,
+  "has_eval": true,
+  "playtime_min_seconds": 359,
+  "playtime_max_seconds": 1737,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "milovana_id": 76259,
+  "title": "BBC Puzzle Therapy",
+  "author": "Spitttyy",
+  "rating": 2.4,
+  "views": 30864,
+  "date": "06/04/2025",
+  "thumbnail_hash": "d70df35e04d68e6094b6084d6b7dbd50c0b8ccc1",
+  "tease_type": "eos",
+  "tags": [
+    "untitled"
+  ],
+  "page_count": 23,
+  "command_count": 136,
+  "media_image_count": 25,
+  "media_audio_count": 0,
+  "media_file_size": 2444264,
+  "has_audio": false,
+  "has_storage": false,
+  "has_notifications": false,
+  "has_timers": true,
+  "has_prompts": true,
+  "has_eval": false,
+  "playtime_min_seconds": 40,
+  "playtime_max_seconds": 220,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

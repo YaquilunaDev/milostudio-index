@@ -1,0 +1,27 @@
+{
+  "milovana_id": 56644,
+  "title": "Testt1",
+  "author": "JayHarly",
+  "rating": 1.9,
+  "views": 7958,
+  "date": "04/30/2022",
+  "thumbnail_hash": "3e7a1b03afbf281b7365e21d4a0b9c8f9ddebdb8",
+  "tease_type": "eos",
+  "tags": [
+    "untitled"
+  ],
+  "page_count": 316,
+  "command_count": 57194,
+  "media_image_count": 1333,
+  "media_audio_count": 78,
+  "media_file_size": 8003431,
+  "has_audio": true,
+  "has_storage": true,
+  "has_notifications": true,
+  "has_timers": true,
+  "has_prompts": true,
+  "has_eval": true,
+  "playtime_min_seconds": 30,
+  "playtime_max_seconds": 3804,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

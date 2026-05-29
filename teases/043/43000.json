@@ -1,0 +1,27 @@
+{
+  "milovana_id": 43000,
+  "title": "Girl Power!",
+  "author": "diddums",
+  "rating": 2.4,
+  "views": 23627,
+  "date": "11/01/2019",
+  "thumbnail_hash": "fabf1591b5cb58e6b4ac9a4eada60f0b1c9f7fa2",
+  "tease_type": "eos",
+  "tags": [
+    "untitled"
+  ],
+  "page_count": 58,
+  "command_count": 188,
+  "media_image_count": 71,
+  "media_audio_count": 0,
+  "media_file_size": 2508288,
+  "has_audio": true,
+  "has_storage": true,
+  "has_notifications": true,
+  "has_timers": true,
+  "has_prompts": false,
+  "has_eval": false,
+  "playtime_min_seconds": 3,
+  "playtime_max_seconds": 7,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "milovana_id": 42733,
+  "title": "Snakes & Ladders: Anthro Ponies",
+  "author": "Morexis",
+  "rating": 4.0,
+  "views": 79859,
+  "date": "11/15/2019",
+  "thumbnail_hash": "a5b58e61d65b68bf35300434565c7d084666a3ba",
+  "tease_type": "eos",
+  "tags": [
+    "anthro",
+    "board",
+    "boardgame",
+    "clop",
+    "dice"
+  ],
+  "page_count": 205,
+  "command_count": 1917,
+  "media_image_count": 214,
+  "media_audio_count": 17,
+  "media_file_size": 45822337,
+  "has_audio": true,
+  "has_storage": true,
+  "has_notifications": true,
+  "has_timers": true,
+  "has_prompts": false,
+  "has_eval": true,
+  "playtime_min_seconds": 58,
+  "playtime_max_seconds": 231,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

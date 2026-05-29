@@ -1,0 +1,27 @@
+{
+  "milovana_id": 49867,
+  "title": "Miss Evans",
+  "author": "",
+  "rating": 4.7,
+  "views": 160450,
+  "date": "04/04/2021",
+  "thumbnail_hash": "7253d2b04e196f8b3811a1bea9697cf1a0ada768",
+  "tease_type": "eos",
+  "tags": [
+    "untitled"
+  ],
+  "page_count": 612,
+  "command_count": 23663,
+  "media_image_count": 4314,
+  "media_audio_count": 16,
+  "media_file_size": 6052031,
+  "has_audio": true,
+  "has_storage": false,
+  "has_notifications": false,
+  "has_timers": true,
+  "has_prompts": true,
+  "has_eval": false,
+  "playtime_min_seconds": 22,
+  "playtime_max_seconds": 5400,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "milovana_id": 49553,
+  "title": "Simple Little Thing",
+  "author": "meladori",
+  "rating": 4.1,
+  "views": 20688,
+  "date": "03/15/2021",
+  "thumbnail_hash": "3e703f0cd388e93306b3ad1b7369c8769a457dd5",
+  "tease_type": "eos",
+  "tags": [
+    "for-guys"
+  ],
+  "page_count": 22,
+  "command_count": 706,
+  "media_image_count": 0,
+  "media_audio_count": 7,
+  "media_file_size": 114746269,
+  "has_audio": true,
+  "has_storage": true,
+  "has_notifications": true,
+  "has_timers": true,
+  "has_prompts": false,
+  "has_eval": true,
+  "playtime_min_seconds": 5,
+  "playtime_max_seconds": 47,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "milovana_id": 66956,
+  "title": "DRC (Distraction Research Center)",
+  "author": "Betahashia",
+  "rating": 3.9,
+  "views": 39103,
+  "date": "10/21/2023",
+  "thumbnail_hash": "d35820e9856c64b8ac71beff59d63220b10b07f1",
+  "tease_type": "eos",
+  "tags": [
+    "denial",
+    "memory",
+    "quick"
+  ],
+  "page_count": 34,
+  "command_count": 221,
+  "media_image_count": 34,
+  "media_audio_count": 3,
+  "media_file_size": 1441545,
+  "has_audio": true,
+  "has_storage": false,
+  "has_notifications": true,
+  "has_timers": true,
+  "has_prompts": true,
+  "has_eval": true,
+  "playtime_min_seconds": 30,
+  "playtime_max_seconds": 186,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

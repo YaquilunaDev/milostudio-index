@@ -1,0 +1,28 @@
+{
+  "milovana_id": 74212,
+  "title": "冲冲乐",
+  "author": "seqingderen",
+  "rating": 3.0,
+  "views": 42208,
+  "date": "02/25/2025",
+  "thumbnail_hash": "ba6f8f729514b332300fcc957efaa4c251091a9d",
+  "tease_type": "eos",
+  "tags": [
+    "exercise",
+    "totm-nominee"
+  ],
+  "page_count": 63,
+  "command_count": 213,
+  "media_image_count": 398,
+  "media_audio_count": 0,
+  "media_file_size": 225301,
+  "has_audio": false,
+  "has_storage": false,
+  "has_notifications": true,
+  "has_timers": true,
+  "has_prompts": false,
+  "has_eval": false,
+  "playtime_min_seconds": 32,
+  "playtime_max_seconds": 879,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

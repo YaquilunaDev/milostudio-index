@@ -1,0 +1,31 @@
+{
+  "milovana_id": 67780,
+  "title": "Genshin Impact Tasks alongside Daily Commissions (v0.3)",
+  "author": "feeling_good",
+  "rating": 3.6,
+  "views": 36703,
+  "date": "12/06/2023",
+  "thumbnail_hash": "713ba5ae71ae6f9022b026757b63d015879a9d6b",
+  "tease_type": "eos",
+  "tags": [
+    "chores",
+    "exercise",
+    "for-guys",
+    "pen-and-paper",
+    "shaving-tools"
+  ],
+  "page_count": 79,
+  "command_count": 1349,
+  "media_image_count": 3491,
+  "media_audio_count": 1,
+  "media_file_size": 129024,
+  "has_audio": true,
+  "has_storage": false,
+  "has_notifications": true,
+  "has_timers": true,
+  "has_prompts": true,
+  "has_eval": true,
+  "playtime_min_seconds": 4,
+  "playtime_max_seconds": 1706,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

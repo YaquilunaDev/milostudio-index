@@ -1,0 +1,31 @@
+{
+  "milovana_id": 54620,
+  "title": "Estim Snakes and Ladders",
+  "author": "19Hellothere83",
+  "rating": 4.5,
+  "views": 51135,
+  "date": "02/16/2022",
+  "thumbnail_hash": "465a59782b75999a69d74b05d8886ae5f56d88ca",
+  "tease_type": "eos",
+  "tags": [
+    "board",
+    "estim",
+    "game",
+    "totm-nominee",
+    "untitled"
+  ],
+  "page_count": 294,
+  "command_count": 1465,
+  "media_image_count": 656,
+  "media_audio_count": 61,
+  "media_file_size": 32258668,
+  "has_audio": true,
+  "has_storage": false,
+  "has_notifications": true,
+  "has_timers": true,
+  "has_prompts": true,
+  "has_eval": true,
+  "playtime_min_seconds": 13,
+  "playtime_max_seconds": 99,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

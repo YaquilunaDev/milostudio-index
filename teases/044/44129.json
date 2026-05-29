@@ -1,0 +1,27 @@
+{
+  "milovana_id": 44129,
+  "title": "ANH",
+  "author": "pokechimp12",
+  "rating": 2.1,
+  "views": 8367,
+  "date": "02/05/2020",
+  "thumbnail_hash": "24ee919de3ee6b4d8f0870f29c41ff3778c2da52",
+  "tease_type": "eos",
+  "tags": [
+    "untitled"
+  ],
+  "page_count": 25,
+  "command_count": 121,
+  "media_image_count": 0,
+  "media_audio_count": 4,
+  "media_file_size": 17376134,
+  "has_audio": true,
+  "has_storage": false,
+  "has_notifications": false,
+  "has_timers": true,
+  "has_prompts": false,
+  "has_eval": false,
+  "playtime_min_seconds": 18,
+  "playtime_max_seconds": 18,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

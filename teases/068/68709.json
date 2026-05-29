@@ -1,0 +1,28 @@
+{
+  "milovana_id": 68709,
+  "title": "Monopoly",
+  "author": "bbb11__",
+  "rating": 4.1,
+  "views": 59124,
+  "date": "01/22/2024",
+  "thumbnail_hash": "32f172134849688af2ad306acb5b5c095dc6f253",
+  "tease_type": "eos",
+  "tags": [
+    "dice",
+    "for-guys"
+  ],
+  "page_count": 39,
+  "command_count": 684,
+  "media_image_count": 214,
+  "media_audio_count": 9,
+  "media_file_size": 8532554,
+  "has_audio": true,
+  "has_storage": true,
+  "has_notifications": true,
+  "has_timers": true,
+  "has_prompts": false,
+  "has_eval": true,
+  "playtime_min_seconds": 10,
+  "playtime_max_seconds": 10,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

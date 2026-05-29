@@ -1,0 +1,27 @@
+{
+  "milovana_id": 48551,
+  "title": "Patritcy 2do.día",
+  "author": "carlosrubinet",
+  "rating": 3.8,
+  "views": 7190,
+  "date": "01/17/2021",
+  "thumbnail_hash": "73f9c71f0687218f2c4cc3207262a872910f9a07",
+  "tease_type": "eos",
+  "tags": [
+    "untitled"
+  ],
+  "page_count": 84,
+  "command_count": 594,
+  "media_image_count": 68,
+  "media_audio_count": 16,
+  "media_file_size": 11726566,
+  "has_audio": true,
+  "has_storage": true,
+  "has_notifications": false,
+  "has_timers": true,
+  "has_prompts": true,
+  "has_eval": true,
+  "playtime_min_seconds": 473,
+  "playtime_max_seconds": 814,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

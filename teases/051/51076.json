@@ -1,0 +1,27 @@
+{
+  "milovana_id": 51076,
+  "title": "The Curse Pt2",
+  "author": "",
+  "rating": 4.6,
+  "views": 21590,
+  "date": "06/21/2021",
+  "thumbnail_hash": "979c8eddcb955da8699bd4ab05af2ef91c9aaf43",
+  "tease_type": "eos",
+  "tags": [
+    "untitled"
+  ],
+  "page_count": 31,
+  "command_count": 782,
+  "media_image_count": 219,
+  "media_audio_count": 10,
+  "media_file_size": 7988458,
+  "has_audio": true,
+  "has_storage": true,
+  "has_notifications": true,
+  "has_timers": true,
+  "has_prompts": false,
+  "has_eval": false,
+  "playtime_min_seconds": 0,
+  "playtime_max_seconds": 4644,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

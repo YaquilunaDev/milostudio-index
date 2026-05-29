@@ -1,0 +1,27 @@
+{
+  "milovana_id": 55296,
+  "title": "Card Endurance Shuffler",
+  "author": "TK",
+  "rating": 3.9,
+  "views": 34148,
+  "date": "03/13/2022",
+  "thumbnail_hash": "711422d65412d3a9d6de4cecc776a3b40dc1bffc",
+  "tease_type": "eos",
+  "tags": [
+    "untitled"
+  ],
+  "page_count": 88,
+  "command_count": 1739,
+  "media_image_count": 0,
+  "media_audio_count": 12,
+  "media_file_size": 71463004,
+  "has_audio": true,
+  "has_storage": true,
+  "has_notifications": true,
+  "has_timers": true,
+  "has_prompts": false,
+  "has_eval": true,
+  "playtime_min_seconds": 0,
+  "playtime_max_seconds": 9,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

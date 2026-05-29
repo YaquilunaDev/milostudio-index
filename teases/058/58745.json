@@ -1,0 +1,27 @@
+{
+  "milovana_id": 58745,
+  "title": "Hero curruption",
+  "author": "",
+  "rating": 2.8,
+  "views": 22022,
+  "date": "07/20/2022",
+  "thumbnail_hash": "3c560eb8ef645a24b988970ec016c26823d72526",
+  "tease_type": "eos",
+  "tags": [
+    "untitled"
+  ],
+  "page_count": 354,
+  "command_count": 46198,
+  "media_image_count": 1596,
+  "media_audio_count": 82,
+  "media_file_size": 8136379,
+  "has_audio": true,
+  "has_storage": true,
+  "has_notifications": true,
+  "has_timers": true,
+  "has_prompts": true,
+  "has_eval": true,
+  "playtime_min_seconds": 25,
+  "playtime_max_seconds": 4454,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

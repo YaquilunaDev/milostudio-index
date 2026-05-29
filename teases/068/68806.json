@@ -1,0 +1,29 @@
+{
+  "milovana_id": 68806,
+  "title": "Charmed",
+  "author": "impcharm",
+  "rating": 4.5,
+  "views": 118288,
+  "date": "02/28/2024",
+  "thumbnail_hash": "8825000162c798cca603da4fe96f73a04218a80f",
+  "tease_type": "eos",
+  "tags": [
+    "level-drain",
+    "monster-girl",
+    "succubus"
+  ],
+  "page_count": 93,
+  "command_count": 4530,
+  "media_image_count": 164,
+  "media_audio_count": 193,
+  "media_file_size": 65085789,
+  "has_audio": true,
+  "has_storage": true,
+  "has_notifications": true,
+  "has_timers": true,
+  "has_prompts": true,
+  "has_eval": true,
+  "playtime_min_seconds": 19,
+  "playtime_max_seconds": 91,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

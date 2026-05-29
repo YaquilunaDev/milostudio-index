@@ -1,0 +1,27 @@
+{
+  "milovana_id": 65082,
+  "title": "Big challenge",
+  "author": "derg",
+  "rating": 3.4,
+  "views": 11592,
+  "date": "06/29/2023",
+  "thumbnail_hash": "df983e3eee1622a2b9ffdc691ad2948b37fc98ec",
+  "tease_type": "eos",
+  "tags": [
+    "for-guys"
+  ],
+  "page_count": 19,
+  "command_count": 110,
+  "media_image_count": 23,
+  "media_audio_count": 0,
+  "media_file_size": 1962605,
+  "has_audio": false,
+  "has_storage": false,
+  "has_notifications": false,
+  "has_timers": true,
+  "has_prompts": false,
+  "has_eval": false,
+  "playtime_min_seconds": 119,
+  "playtime_max_seconds": 150,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

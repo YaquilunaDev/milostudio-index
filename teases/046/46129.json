@@ -1,0 +1,28 @@
+{
+  "milovana_id": 46129,
+  "title": "Stop! Alternative",
+  "author": "mandarynkorian",
+  "rating": 4.2,
+  "views": 45836,
+  "date": "09/27/2020",
+  "thumbnail_hash": "3dd8b286c320c00ac4e210f4cc1ace3443380264",
+  "tease_type": "eos",
+  "tags": [
+    "totm-nominee",
+    "untitled"
+  ],
+  "page_count": 8,
+  "command_count": 83,
+  "media_image_count": 412,
+  "media_audio_count": 64,
+  "media_file_size": 7125132,
+  "has_audio": true,
+  "has_storage": true,
+  "has_notifications": true,
+  "has_timers": true,
+  "has_prompts": false,
+  "has_eval": true,
+  "playtime_min_seconds": 7,
+  "playtime_max_seconds": 7,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "milovana_id": 66285,
+  "title": "The Land of Arxis",
+  "author": "NotAnAvrageThrowaway",
+  "rating": 4.4,
+  "views": 48401,
+  "date": "10/30/2023",
+  "thumbnail_hash": "b87eeaa5e3e64a8261c3f53c30f139285a0f5702",
+  "tease_type": "eos",
+  "tags": [
+    "for-guys"
+  ],
+  "page_count": 124,
+  "command_count": 3905,
+  "media_image_count": 647,
+  "media_audio_count": 11,
+  "media_file_size": 4596293,
+  "has_audio": true,
+  "has_storage": true,
+  "has_notifications": false,
+  "has_timers": true,
+  "has_prompts": true,
+  "has_eval": true,
+  "playtime_min_seconds": 0,
+  "playtime_max_seconds": 1142,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

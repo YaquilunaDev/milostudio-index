@@ -1,0 +1,28 @@
+{
+  "milovana_id": 51434,
+  "title": "A Quest for Power v0.1",
+  "author": "CliffAvery",
+  "rating": 4.5,
+  "views": 32466,
+  "date": "09/08/2021",
+  "thumbnail_hash": "57be26fafc1f1ceb1993bc09a121eb47fc86434a",
+  "tease_type": "eos",
+  "tags": [
+    "for-guys",
+    "totm-nominee"
+  ],
+  "page_count": 36,
+  "command_count": 2308,
+  "media_image_count": 380,
+  "media_audio_count": 12,
+  "media_file_size": 3296929,
+  "has_audio": true,
+  "has_storage": false,
+  "has_notifications": true,
+  "has_timers": true,
+  "has_prompts": true,
+  "has_eval": true,
+  "playtime_min_seconds": 14,
+  "playtime_max_seconds": 622,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

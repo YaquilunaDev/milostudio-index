@@ -1,0 +1,27 @@
+{
+  "milovana_id": 52681,
+  "title": "Test",
+  "author": "derpyzf",
+  "rating": 1.0,
+  "views": 6314,
+  "date": "02/26/2023",
+  "thumbnail_hash": "04b7b293281fc40b1e29ccd54521afd7c78f54cd",
+  "tease_type": "eos",
+  "tags": [
+    "untitled"
+  ],
+  "page_count": 1,
+  "command_count": 0,
+  "media_image_count": 1,
+  "media_audio_count": 0,
+  "media_file_size": 0,
+  "has_audio": false,
+  "has_storage": false,
+  "has_notifications": false,
+  "has_timers": false,
+  "has_prompts": false,
+  "has_eval": false,
+  "playtime_min_seconds": 0,
+  "playtime_max_seconds": 0,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

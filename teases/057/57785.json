@@ -1,0 +1,27 @@
+{
+  "milovana_id": 57785,
+  "title": "Patritcy 6to día",
+  "author": "carlosrubinet",
+  "rating": 3.6,
+  "views": 4300,
+  "date": "02/01/2024",
+  "thumbnail_hash": "61c6cba1049019f7eb3b9bbfecfa7f4c8d01f109",
+  "tease_type": "eos",
+  "tags": [
+    "untitled"
+  ],
+  "page_count": 142,
+  "command_count": 1057,
+  "media_image_count": 215,
+  "media_audio_count": 10,
+  "media_file_size": 5865970,
+  "has_audio": true,
+  "has_storage": false,
+  "has_notifications": false,
+  "has_timers": true,
+  "has_prompts": true,
+  "has_eval": true,
+  "playtime_min_seconds": 701,
+  "playtime_max_seconds": 800,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}

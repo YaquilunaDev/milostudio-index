@@ -1,0 +1,27 @@
+{
+  "milovana_id": 53730,
+  "title": "Karla's Surprise",
+  "author": "",
+  "rating": 4.6,
+  "views": 53964,
+  "date": "12/01/2021",
+  "thumbnail_hash": "1665514da91afebc39e2638ed6e440c056782235",
+  "tease_type": "eos",
+  "tags": [
+    "for-guys"
+  ],
+  "page_count": 67,
+  "command_count": 2237,
+  "media_image_count": 416,
+  "media_audio_count": 27,
+  "media_file_size": 24040932,
+  "has_audio": true,
+  "has_storage": true,
+  "has_notifications": true,
+  "has_timers": true,
+  "has_prompts": true,
+  "has_eval": false,
+  "playtime_min_seconds": 107,
+  "playtime_max_seconds": 6021,
+  "scraped_at": "2026-05-29T18:48:53.774450518+00:00"
+}
